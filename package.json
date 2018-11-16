@@ -1,0 +1,14 @@
+{
+  "name": "livestock-bot",
+  "version": "1.0.0",
+  "description": "Livestock shopping bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanley Dharan",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "git+https://github.com/GoogleChrome/puppeteer.git"
+  }
+}
