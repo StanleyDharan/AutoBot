@@ -1,4 +1,4 @@
-#AutoBot
+AutoBot
 
 AutoBot is a fun little web app I developed to learn the basics of web-scrapping using Puppeteer
  and Headless Chrome. 
@@ -10,7 +10,7 @@ AutoBot is a fun little web app I developed to learn the basics of web-scrapping
  I mostly made this because I like to buy cool limited clothing/shoes but its almost impossible
  to compete against others using similar bots to purchase items.
  
- ####Progess report:
+ ###Progess report:
  - <del>Accessing website and getting list of all items</del>
  - <del>Finding a specified item and accessing its product page </del>
  - Adding item to cart then going to checkout page
