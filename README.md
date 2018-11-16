@@ -16,3 +16,13 @@ AutoBot is a fun little web app I developed to learn the basics of web-scrapping
  - Adding item to cart then going to checkout page
  - filling in shipping/billing information
  - hand controls back over to the user to confirm details and place order
+ 
+ ### Getting it to work:
+ you will need:
+  - node and npm installed
+
+Install and run:
+  - clone repo
+  - cd into repo
+  - npm install, wait for packages to install
+  - node index.js
